@@ -1,1 +1,1 @@
-# anilist-api
+# anilist-client
