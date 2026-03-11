@@ -3,12 +3,12 @@ import type { NotificationType } from "../";
 import type { User } from "../../User";
 
 export type Common = {
-  activity: ActivityUnion; //incomplete
+  activity: ActivityUnion;
   activityId: number;
   context: string;
   createdAt: number;
   id: number;
   type: NotificationType;
-  user: User; //incomplete
+  user: User;
   userId: number;
 };

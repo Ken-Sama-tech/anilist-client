@@ -1,4 +1,4 @@
-import type { Staff } from "./Staff";
+import type { Staff } from "../";
 
 export type StaffRoleType = {
   dubGroup: string;

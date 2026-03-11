@@ -21,3 +21,11 @@ export * from "./objects/FollowingNotification";
 export * from "./objects/MediaDataChangeNotification";
 export * from "./objects/MediaDeletionNotification";
 export * from "./objects/MediaMergeNotification";
+export * from "./objects/RelatedMediaAdditionNotification";
+
+//---------------------- Thread ----------------------
+export * from "./objects/ThreadCommentLikeNotification";
+export * from "./objects/ThreadCommentMentionNotification";
+export * from "./objects/ThreadCommentReplyNotification";
+export * from "./objects/ThreadCommentSubscribedNotification";
+export * from "./objects/ThreadLikeNotification";

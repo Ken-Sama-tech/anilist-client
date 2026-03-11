@@ -1,1 +1,4 @@
-export type ScoreDistribution = {};
+export type ScoreDistribution = {
+  amount: number;
+  score: number;
+};

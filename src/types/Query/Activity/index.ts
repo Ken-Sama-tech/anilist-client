@@ -6,3 +6,4 @@ export * from "./enums/ActivityType";
 export * from "./objects/ListActivity";
 export * from "./objects/ListActivityOption";
 export * from "./objects/MessageActivity";
+export * from "./objects/TextActivity";
